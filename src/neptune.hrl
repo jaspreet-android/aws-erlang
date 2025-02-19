@@ -6,8 +6,8 @@
 %%% @end
 %%% Created : 07. Nov 2024 11:07 PM
 %%%-------------------------------------------------------------------
--copyright('Copyright (c) 2024 Comera').
--author('Jaspreet Chhabra <jaspreet.chhabra@mycomera.com>').
+-copyright('Copyright (c) 2024').
+-author('Jaspreet Chhabra <jaspreet.android@gmail.com>').
 
 %% Example:
 %% parsing_exception() :: #{
